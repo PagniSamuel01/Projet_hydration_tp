@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Suivi Hydratation</string>
+    <string name="daily_goal">Objectif quotidien</string>
+    <string name="add_250ml">+ 250 ml</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="reset_confirm_title">Réinitialiser la journée ?</string>
+    <string name="reset_confirm_msg">Voulez-vous réinitialiser votre consommation d\'eau aujourd\'hui à 0 ml ?</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="goal_reached">🎉 Objectif atteint ! Bravo !</string>
+    <string name="remaining_water">Encore %1$d ml pour atteindre votre objectif</string>
+    <string name="glasses_consumed">%1$d verres de 250 ml</string>
+    <string name="history_title">Historique d\'aujourd\'hui</string>
+    <string name="empty_history">Aucune prise d\'eau enregistrée. Appuyez sur + 250 ml pour commencer !</string>
+</resources>

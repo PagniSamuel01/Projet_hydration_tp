@@ -1,0 +1,6 @@
+{
+  "name": "Suivi Hydratation",
+  "description": "Application Android de suivi d'hydratation avec cercle de progression pour un objectif de 2L, bouton +250ml, réinitialisation et thème sombre turquoise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
