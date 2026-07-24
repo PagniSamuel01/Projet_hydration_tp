@@ -28,6 +28,8 @@ data class HydrationUiState(
 
     val isGoalReached: Boolean
         get() = totalWaterMl >= dailyGoalMl
+        get() = totalWaterMl >= dailyGoalMl
+        get() = totalWaterMl >= dailyGoalMl
 
     val remainingMl: Int
         get() = (dailyGoalMl - totalWaterMl).coerceAtLeast(0)
