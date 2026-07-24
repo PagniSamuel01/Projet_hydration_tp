@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.aistudio.hydration.kxmpzq"
   compileSdk = 36
 
   defaultConfig {
